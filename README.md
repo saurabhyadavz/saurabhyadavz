@@ -14,7 +14,6 @@
 
 - 💼 Previously at **Flipkart** and in **high-frequency trading**
 - ⚡ I like fast systems, clean data pipelines, and tools that save people time
-- 🤖 Lately: MCP servers, and agent skills for ChatGPT and Claude
 
 ### 🛠️ Tech I use
 
